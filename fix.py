@@ -1,11 +1,17 @@
+# Wiebe Jelsma, 12468223
+# Code to plot this
+
+# Import everything
 import pandas
 import matplotlib.pyplot as plt
-
+# Read in data
 data = pandas.read_csv("istherecorrelation.csv", delimiter = ';')
-data = pandas.DataFrame(data)
-# print(data['WO [x1000]'])
+
+# Get the right data
 x = data['WO [x1000]']
 y = data['NL Beer consumption [x1000 hectoliter]']
+
+# Get everything to plot and safe it
 plt.figure(dpi=300)
 plt.plot(x,y, color = 'orange')
 
