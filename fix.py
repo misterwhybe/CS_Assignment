@@ -15,7 +15,7 @@ y = data['NL Beer consumption [x1000 hectoliter]']
 plt.figure(dpi=300)
 plt.plot(x,y, color = 'orange')
 
-plt.xlabel('Amount of students')
+plt.xlabel('Amount of students (x1000)')
 plt.ylabel('Hectoliters of beer (x1000)')
 plt.title('Beer consumption of the dutch students')
 plt.savefig('picture.pdf')
