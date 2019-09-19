@@ -10,4 +10,4 @@ Third article:
 The neurocognitive effects of alcohol on adolescents and college students
 Zeigler, D. W., Wang, C. C., Yoast, R. A., Dickinson, B. D., McCaffree, M. A., Robinowitz, C. B., & Sterling, M. L. (2005). The neurocognitive effects of alcohol on adolescents and college students. Preventive medicine, 40(1), 23-32.
 
-![Picture of our line graph](picture.pdf) 
+![](picture.pdf) 
